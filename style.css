@@ -1,0 +1,30 @@
+
+
+header {
+    height: 200px;
+    width: 100%; 
+    background-image: url("./assets/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: fixed;
+    
+}
+
+
+nav {
+    background-color: bisque;
+    height: 50px;
+    width: 100%;
+   
+} 
+
+.corpo{
+    background-color: lightblue;
+    height: 1080px;
+}
+
+footer{
+    background-color: darkslategray;
+    height: 200px;
+}
