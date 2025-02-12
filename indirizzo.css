@@ -1,0 +1,15 @@
+iframe{
+    width: 26%;
+    left: 35%;
+    top: 22%;
+    position: absolute;
+}
+
+.indirizzo{
+    background-color: bisque;
+    width: 26%;
+    left: 35%;
+    top: 15%;
+    position: absolute;
+    text-align: center;
+}

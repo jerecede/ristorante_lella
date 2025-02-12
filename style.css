@@ -100,5 +100,17 @@ footer{
     top: 100%;
     left: 0%;
     width: 100%;
-    height:25%;
+    height:50%;
+}
+
+footer img{
+    position: relative;
+    width: 2%;
+    padding: 1% 2% 0% 0%;
+}
+
+footer p{
+    position: relative;
+    left: 10%;
+    top: 15%;
 }
