@@ -1,3 +1,5 @@
+/* CSS standard per tutte le pagine del sito (Header e Footer) */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
@@ -35,7 +37,6 @@ header {
     left: 31%;
     top: 35%;
     background-color: rgba(255, 255, 255, 0.418);
-    border-radius: 50px;
     overflow: hidden;
 }
 
@@ -113,4 +114,46 @@ footer p{
     position: relative;
     left: 10%;
     top: 15%;
+}
+
+/* CSS della pagina indirizzo.html */
+
+iframe{
+    width: 26%;
+    left: 35%;
+    top: 22%;
+    position: absolute;
+}
+
+.indirizzo{
+    background-color: bisque;
+    width: 26%;
+    left: 35%;
+    top: 15%;
+    position: absolute;
+    text-align: center;
+}
+
+/* CSS della pagina menu.html */
+
+table{
+    height: 15%;
+}
+
+th, td{
+    background-color: bisque;
+    text-align: center;
+    width: 20%;
+}
+
+.tb-1{
+    position: absolute;
+    left: 28.5%;
+    top: 30%;
+}
+
+.tb-2{
+    position: absolute;
+    left: 25%;
+    top: 50%;
 }
